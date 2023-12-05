@@ -1,0 +1,2 @@
+{{ $car->title }}
+{{ $car->producer }}
